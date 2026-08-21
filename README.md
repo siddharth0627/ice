@@ -1,4 +1,4 @@
 # ice
 this project is under constration
-it is based on student .
+it is based on student innovation.
 
